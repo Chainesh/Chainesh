@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chainesh
 - 👀 I’m interested in Deep Learning and AI 
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Computer Vision Pronlems
+- 💞️ I’m looking to collaborate on Computer Vision Problems
 - 📫 How to reach me -- chainesh2k@gmail.com
 
 <!---
